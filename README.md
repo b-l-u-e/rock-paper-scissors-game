@@ -35,7 +35,7 @@ Users will be able to:
 
 ### Links
 
-- Live Site URL: [rock pair scissors]()
+- Live Site URL: [rock pair scissors](https://stoic-lamarr-0af9b3.netlify.app)
 
 ## plan
 
