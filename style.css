@@ -11,15 +11,15 @@ body {
   /* max-width: 90rem; */
   margin: 0 auto;
   font-size: 16px;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 .wrapper {
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 100vw;
-  height: 100vh;
+  /* width: 100vw; */
+  min-height: 100vh;
   background: radial-gradient(134% 134% at 50% 0%, #1f3757 0%, #131537 100%);
 }
 
@@ -64,7 +64,7 @@ body {
 .wrapper .hands {
   display: flex;
   flex-wrap: wrap;
-  width: 29.75rem;
+  max-width: 29.75rem;
   height: 26.875rem;
   justify-content: center;
   margin-top: 6.25rem;
